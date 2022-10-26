@@ -2,4 +2,4 @@
 CCI performance
 
 
- Media(choreo_privacy/media.json)
+ [Media]("https://github.com/sicchio/choreo_privacy/blob/main/media.json")
