@@ -2,4 +2,4 @@
 CCI performance
 
 
- Media (media.json)
+ Media(choreo_privacy/media.json)
