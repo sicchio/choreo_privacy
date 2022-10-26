@@ -1,1 +1,4 @@
-
+[ 
+{ "url":"sounds/SoundDesign2.wav","type":"audio","bank":"cci","n":0},
+  { "url":"sounds/sounds_bajo_bajo0.wav","type":"audio","bank":"cci","n":2}
+]
