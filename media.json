@@ -1,3 +1,4 @@
 [ 
-{ "url":"choreo_privacy/SoundDesign2.wav","type":"audio","bank":"cci","n":0} 
+{ "url":"choreo_privacy/SoundDesign2.wav","type":"audio","bank":"cci","n":0},
+  { "url":"choreo_privacy/sounds_bajo_bajo0.wav","type":"audio","bank":"cci","n":2}
 ]
