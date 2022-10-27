@@ -1,4 +1,4 @@
 [ 
-{ "url":"cci/SoundDesign2.wav","type":"audio","bank":"cci","n":0},
-  { "url":"cci/sounds_bajo_bajo0.wav","type":"audio","bank":"cci","n":1}
+{ "url": "cci/SoundDesign2.wav","type":"audio","bank":"cci","n":0},
+{ "url": "cci/sounds_bajo_bajo0.wav","type":"audio","bank":"cci","n":1}
 ]
