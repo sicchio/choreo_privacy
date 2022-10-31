@@ -7,13 +7,13 @@ anyCharacter = .
 //videos
 solo= "solo"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-solo-movement-2.mp4?raw=true"}
 walk= "walk"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-walking-front-back.mp4?raw=true"}
-kneel "kneel"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-solo-movement-3-short.mov?raw=true"}
-blades "blades"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-blades.mp4?raw=true"}
-arms "arms"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-contralateral-arms.mp4"}
-swing "swing"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-drop-swing.mp4"}
-groove "groove"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-duet-grooving.mp4"}
-run "run"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-spatial-running-short.mov"}
-roll "roll"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-trinity-roll-short.mov"}
+kneel= "kneel"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-solo-movement-3-short.mov?raw=true"}
+blades= "blades"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-blades.mp4?raw=true"}
+arms= "arms"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-contralateral-arms.mp4"}
+swing= "swing"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-drop-swing.mp4"}
+groove= "groove"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-duet-grooving.mp4"}
+run= "run"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-spatial-running-short.mov"}
+roll= "roll"i{ return "https://github.com/sicchio/choreo_privacy/blob/main/AI-trinity-roll-short.mov"}
 
 square = "square"i { return "rectMask 0.0 0.2 0.0 0.2"}
 stack = "stack"i { return "setPosY"}
