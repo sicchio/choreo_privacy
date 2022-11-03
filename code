@@ -26,7 +26,7 @@ turn = "turn"i { return "setRotate (range 0 360 $ sin 0.1)"}
 heavy = "heavy"i { return "every 10 0"}
 quick = "quick"i {return "every 2 0 "}
 staccato ="staccato"{return "every 2 8"}
-shorten="shorten"i{return "seg 0.25 0.3 0.25 "}
+shorten="shorten"i{return "seg 0.25 0.3 0.65 "}
 travel = "travel"i{return "setPosX (sin 0.1)" }
 
 
