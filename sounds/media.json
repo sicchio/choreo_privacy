@@ -1,10 +1,10 @@
 [ 
 { "url": "cci/RESEARCH SOUND DESIGN STEMS_bounce.wav","type":"audio","bank":"cci","n":0},
 { "url": "cci/RESEARCH SOUND DESIGN STEMS_SOUND.wav","type":"audio","bank":"cci","n":1},
-{ "url": "cci/RESEARCH SOUND DESIGN STEMS_Serum #2.wav","type":"audio","bank":"cci","n":2}
-{ "url": "cci/RESEARCH SOUND DESIGN STEMS_Serum #3.wav","type":"audio","bank":"cci","n":3}
-{ "url": "cci/RESEARCH SOUND DESIGN STEMS_Serum #4.wav","type":"audio","bank":"cci","n":4}
-{ "url": "cci/RESEARCH SOUND DESIGN STEMS_steady loo_p.wav","type":"audio","bank":"cci","n":5}
-{ "url": "cci/RESEARCH SOUND DESIGN STEMS_stomp.wav","type":"audio","bank":"cci","n":6}
+{ "url": "cci/RESEARCH SOUND DESIGN STEMS_Serum #2.wav","type":"audio","bank":"cci","n":2},
+{ "url": "cci/RESEARCH SOUND DESIGN STEMS_Serum #3.wav","type":"audio","bank":"cci","n":3},
+{ "url": "cci/RESEARCH SOUND DESIGN STEMS_Serum #4.wav","type":"audio","bank":"cci","n":4},
+{ "url": "cci/RESEARCH SOUND DESIGN STEMS_steady loo_p.wav","type":"audio","bank":"cci","n":5},
+{ "url": "cci/RESEARCH SOUND DESIGN STEMS_stomp.wav","type":"audio","bank":"cci","n":6},
 { "url": "cci/RESEARCH SOUND DESIGN STEMS_stomp1.wav","type":"audio","bank":"cci","n":7}
 ]
